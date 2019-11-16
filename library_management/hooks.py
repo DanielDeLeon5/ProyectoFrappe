@@ -127,3 +127,6 @@ app_license = "GNU General Public License"
 # 	"Task": "library_management.task.get_dashboard_data"
 # }
 
+role_home_page = {
+    "Library Member": "article"
+}

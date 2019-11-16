@@ -19,19 +19,19 @@
   {
    "fieldname": "article_name",
    "fieldtype": "Data",
-   "label": "Article Name",
+   "label": "Nombre del articulo",
    "reqd": 1
   },
   {
    "fieldname": "author",
    "fieldtype": "Data",
-   "label": "Author",
+   "label": "Autor",
    "reqd": 1
   },
   {
    "fieldname": "description",
    "fieldtype": "Text",
-   "label": "Description"
+   "label": "Descripcion"
   },
   {
    "fieldname": "isbn",
@@ -43,26 +43,26 @@
    "fieldname": "status",
    "fieldtype": "Data",
    "in_list_view": 1,
-   "label": "Status",
+   "label": "Estado",
    "options": "Issued\nAvailable",
    "reqd": 1
   },
   {
    "fieldname": "publisher",
    "fieldtype": "Data",
-   "label": "Publisher ",
+   "label": "Publicado",
    "reqd": 1
   },
   {
    "fieldname": "language",
    "fieldtype": "Data",
-   "label": "Language",
+   "label": "Idioma",
    "reqd": 1
   },
   {
    "fieldname": "image",
-   "fieldtype": "Image",
-   "label": "Image"
+   "fieldtype": "Attach Image",
+   "label": "Imagen"
   },
   {
    "fieldname": "column_break_7",
@@ -73,7 +73,7 @@
    "fieldtype": "Section Break"
   }
  ],
- "modified": "2019-11-11 19:09:43.655560",
+ "modified": "2019-11-16 16:24:12.746858",
  "modified_by": "Administrator",
  "module": "Library Management",
  "name": "Article",
